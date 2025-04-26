@@ -1,3 +1,8 @@
+<a href="mailto:jhwa11020@gmail.com">
+  <img src="https://raw.githubusercontent.com/JHWA1102/your-repo/main/gmail.svg" alt="Gmail" width="40" />
+</a>
+
+
 Hi👋 I'm Joy from South Korea.
 
 I'm passionate about developing software systems and always eager to learn more about technology🧑‍💻
