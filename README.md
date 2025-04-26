@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20JOY%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:ff5757,100:ff5757&height=300&section=header&text=Hello%20JOY&fontSize=90&fontColor=2c0015)
+
+
 
 <!--
 **JHWA1102/JHWA1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
