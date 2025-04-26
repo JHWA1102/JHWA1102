@@ -4,7 +4,9 @@ I'm passionate about developing software systems and always eager to learn more 
 
 I also love traveling and discovering different ways people live around the world🌏 — getting to know their stories and cultures truly inspires me.
 
-My Profile
+<div align=center>
+    <p><b>My Profile</b>💼<br/></p>
+</div>
 
 <div align=center>
   <a href="mailto:jhwa11020@gmail.com">
