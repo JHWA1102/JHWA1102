@@ -1,5 +1,7 @@
 👋Hi there!
 
+I have a strong interest in software development!😆
+
 <!--
 **JHWA1102/JHWA1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
