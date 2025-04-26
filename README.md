@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20JOY&fontSize=90&fontColor=000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHWA1102)](https://github.com/anuraghazra/github-readme-stats)
-
-
+👋Hi there!
 
 <!--
 **JHWA1102/JHWA1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
