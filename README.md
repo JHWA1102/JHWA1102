@@ -1,8 +1,8 @@
 Hi👋 I'm Joy from South Korea.
 
-I'm passionate about developing software systems and always eager to learn more about technology.
+I'm passionate about developing software systems and always eager to learn more about technology🧑‍💻
 
-I also love traveling and discovering different ways people live around the world — getting to know their stories and cultures truly inspires me.
+I also love traveling and discovering different ways people live around the world🌏 — getting to know their stories and cultures truly inspires me.
 
 <!--
 **JHWA1102/JHWA1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
