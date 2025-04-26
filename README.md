@@ -1,6 +1,10 @@
-<a href="mailto:jhwa11020@gmail.com">
-  <img src="https://raw.githubusercontent.com/JHWA1102/your-repo/main/gmail.svg" alt="Gmail" width="40" />
-</a>
+<div align=center>
+  <a href="mailto:jhwa11020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" width="60" />
+  </a>
+  
+  <br>
+</div>
 
 
 Hi👋 I'm Joy from South Korea.
