@@ -6,9 +6,16 @@ I also love traveling and discovering different ways people live around the worl
 
 Please check out my new project!
 
-📄 PARFAIT REPORT  
+### Project Overview
 
+📄 **PARFAIT REPORT**  
 https://parfait-report.kro.kr/
+
+A private financial report that lets you track your asset flow at a glance—secure, simple, and personal.
+
+<a href="https://deserted-wallflower-c1a.notion.site/2cbd67daca4e80fb949ecb332e4400cd?v=2cbd67daca4e81a988e6000c6817aa59&source=copy_link" target="_blank">
+🗂 Project Workflow (Kanban Board)
+</a>
 
 A private financial report that lets you track your asset flow at a glance—secure, simple, and personal.
 
