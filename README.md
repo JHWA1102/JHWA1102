@@ -5,8 +5,11 @@ I'm passionate about developing software systems and always eager to learn more 
 I also love traveling and discovering different ways people live around the world🌏 — getting to know their stories and cultures truly inspires me.
 
 Please check my new project!
-PARFAIT-REPORT
+
+📄PARFAIT-REPORT
+
 https://parfait-report.kro.kr/
+
 <p>- A private financial report that lets you track your asset flow clearly—secure, simple, and personal.</p>
 
 <div align=center>
