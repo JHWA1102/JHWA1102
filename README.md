@@ -6,9 +6,9 @@ I also love traveling and discovering different ways people live around the worl
 
 Please check out my new project!
 
-📄 PARFAIT REPORT(temporarily closed)
+📄 PARFAIT REPORT
 
-https://parfait-report.kro.kr/
+https://parfait-report.co.kr/
 
 A private financial report that lets you track your asset flow at a glance—secure, simple, and personal.
 
